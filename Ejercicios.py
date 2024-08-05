@@ -144,7 +144,7 @@ cadena = cadena.replace(" ", "").lower()
 if cadena == cadena[::-1]:
     print("La cadena ingresada es un palíndromo.")
 else:
-    print("La cadena ingresada no es un palíndromo.")
+    print("La cadena ingresada no es un palíndromo. ")
 
 
 
